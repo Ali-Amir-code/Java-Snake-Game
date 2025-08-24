@@ -61,11 +61,8 @@ Welcome to the **Java Snake Game** repository! This project is a classic impleme
 3. **Run the game:**
 
    ```bash
-   java -cp src SnakeGame
+   java -cp src Snake
    ```
-
-   > **Note:** The main class is usually `SnakeGame.java`, but check your `src` directory for the correct entry point.
-
 ---
 
 ## How to Play
@@ -82,14 +79,9 @@ Welcome to the **Java Snake Game** repository! This project is a classic impleme
 
 ```
 Java-Snake-Game/
-├── src/
-│   ├── SnakeGame.java
-│   ├── Board.java
+├── src/com/aliamircode/
 │   ├── Snake.java
-│   ├── Food.java
-│   └── ... (other supporting files)
-├── assets/
-│   └── screenshot.png
+│   ├── Board.java
 ├── README.md
 └── LICENSE
 ```
