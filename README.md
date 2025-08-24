@@ -32,7 +32,7 @@ Welcome to the **Java Snake Game** repository! This project is a classic impleme
 
 ## Demo
 
-![Game Screenshot](assets/screenshot.png)
+![Game Screenshot](snake.jpg)
 
 ---
 
