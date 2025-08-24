@@ -61,7 +61,7 @@ Welcome to the **Java Snake Game** repository! This project is a classic impleme
 3. **Run the game:**
 
    ```bash
-   java -cp src Snake
+   java -cp src Board
    ```
 ---
 
@@ -87,7 +87,6 @@ Java-Snake-Game/
 ```
 
 - `src/`: Contains all Java source files.
-- `assets/`: Contains images, screenshots, or other resources.
 - `README.md`: Project documentation.
 - `LICENSE`: License information.
 
